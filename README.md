@@ -5,6 +5,8 @@
 -------
 Landing page desenvolvida durante o Bootcamp Ri Happy Front End da DIO orientado por Diogo Medeiros Mainardes(HTML) e Michele Queiroz Ambrosio (CSS).
 
+Confira o resultado: [https://lgjor.github.io/LandingPageMundoInvertido/](https://lgjor.github.io/LandingPageMundoInvertido/)
+
 ## ▶️ Semana Front-end
 
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
