@@ -22,4 +22,5 @@
   position: relative;
   mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
   -webkit-mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
-}   
+}
+
