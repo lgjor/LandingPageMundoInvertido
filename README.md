@@ -9,7 +9,7 @@ Landing page desenvolvida durante o Bootcamp Ri Happy Front End da DIO orientado
 
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
-- 
+  
 ## 💻 Tecnologias
 
 - HTML
